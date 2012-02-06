@@ -1,0 +1,4 @@
+* Statement.py prints out what merchants and category that money are spent in each month. Input file is a monthly statment from USbank in csv format. To run it, type $python Statement.py xxx.csv
+
+* merge_ENSource_JPTarget.py parses Gentoo Linux documentation from English and Japanese site, generating a file in a format required by the Translation Memory tool used by Gentoo Linux in Japan.  To run, type $python merge_ENSource_JPTarget.py eg_xxx.xml jp_xxx.xml
+
